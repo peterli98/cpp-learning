@@ -1,10 +1,10 @@
 # cpp-learning
 This will be an ongoing repo where I go through the basics of C++
 
-List of Mini Tasks:
+## List of Mini Tasks:
 
-### 1. SizeOf
-### 2. CheckPrime
+1. ### SizeOf
+2. ### CheckPrime
 
 ## SizeOf
 Prints the actual byte size of variables on your machine.
