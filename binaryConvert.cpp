@@ -10,6 +10,7 @@ int main()
     return 0;
 }
 
+//unsigned int
 std::string decimalToBinary(int decimalNum)
 {
     std::string binaryNum = "";
